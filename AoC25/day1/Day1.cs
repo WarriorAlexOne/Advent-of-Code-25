@@ -2,6 +2,6 @@
 {
     public static void Day1_ ()
     {
-        Console.WriteLine("Am I Looping Day1?");
+        Console.WriteLine("Am I Looping?");
     }
 }
