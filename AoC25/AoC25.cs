@@ -1,15 +1,11 @@
-﻿class App
-{
-    public static void Main (string[] args)
-    {
-        if (args.Length <= 0)
-        {
+﻿class AoC25 {
+    public static void Main (string[] args) {
+        if (args.Length <= 0) {
             Console.WriteLine("No Args!!!");
             return;
         }
         
-        switch (args[0])
-        {
+        switch (args[0]) {
             default:
                 Console.WriteLine("Invalid Args!!!");
                 break;
