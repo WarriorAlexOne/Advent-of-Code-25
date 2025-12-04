@@ -15,6 +15,12 @@
             case "day1part2":
                 Day1.Day1_Part2();
                 break;
+            case "day2part1":
+                Day2.Day2_Part1();
+                break;
+            case "day2part2":
+                Day2.Day2_Part2();
+                break;
         }
 
         Console.WriteLine();
