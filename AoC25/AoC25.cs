@@ -13,5 +13,7 @@
                 Day1.Day1_();
                 break;
         }
+
+        Console.WriteLine();
     }
 }
