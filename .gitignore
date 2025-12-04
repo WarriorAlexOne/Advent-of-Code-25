@@ -3,6 +3,6 @@ obj
 template
 AoC25.csproj
 WAOAdventOfCode25.slnx
-input.txt
-testinput.txt
+input_day1.txt
+testinput_day1.txt
 AoC25C
